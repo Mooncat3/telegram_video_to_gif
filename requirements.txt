@@ -1,0 +1,7 @@
+aiogram==3.22.0
+python-dotenv==1.1.1
+SQLAlchemy[asyncio]==2.0.43
+aiosqlite==0.21.0
+aiogram-media-group==0.5.1
+pytz==2025.2
+uvloop==0.21.0 ; sys_platform == 'linux'
